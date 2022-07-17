@@ -13,6 +13,4 @@
 <details>
     <summary>📊 Statistics:</summary>
         <img align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=picturee&langs_count=8&layout=compact"/>
-    <br />
-        <img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=picturee&show_icons=true" />
 </details>
