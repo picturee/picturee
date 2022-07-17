@@ -1,16 +1,18 @@
-### Hi there 👋
+[![Header](images/header.png)]()
+### Hi there 👋, I'm picturee
+- ⚙️ I study programming languages ​​and improve my knowledge.
+- ✏️ I like to write code
+- ⚡ I am constantly learning new things
 
-<!--
-**picturee/picturee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/747549923775479871)
 
-Here are some ideas to get you started:
+### Languages and tools:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongo,vscode)](https://github.com/picturee/picturee)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+    <summary>📊 Statistics:</summary>
+        <img align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=picturee&langs_count=8&layout=compact"/>
+    <br />
+        <img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=picturee&show_icons=true" />
+</details>
